@@ -21,3 +21,5 @@ composer require laravel/cashier
 
 
 php artisan make:migration create_plans_table
+php artisan make:model Plan
+ php artisan make:controller PlanController
