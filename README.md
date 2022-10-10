@@ -1,3 +1,14 @@
+# Project Name
+> Abstract of the project or small introduction of what the project is about subscription
+<hr>
+
+# Table of Contents
+* [Team Members](#team-members)
+
+# <a name="team-members"></a>Team Members
+* "Eziz Soyun" <eziz@gmail.com>
+
+
 composer create-project laravel/laravel basic_subscription
 
 composer require laravel/cashier
