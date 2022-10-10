@@ -6,7 +6,7 @@
 * [Team Members](#team-members)
 
 # <a name="team-members"></a>Team Members
-* "Eziz Soyun" <eziz@gmail.com>
+* "Eziz Soyun" <ezizce@gmail.com>
 
 
 composer create-project laravel/laravel basic_subscription
