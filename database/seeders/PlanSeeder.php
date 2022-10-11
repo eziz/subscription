@@ -29,7 +29,7 @@ class PlanSeeder extends Seeder
                 'name' => 'Premium',
                 'slug' => 'premium',
                 'stripe_plan' => 'price_1LqxvyKBZdhxZV4xxbt7OjES',
-                'price' => 20,
+                'price' => 50,
                 'description' => 'Premium'
             ]
         ];
