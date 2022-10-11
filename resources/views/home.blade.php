@@ -17,7 +17,11 @@
 
                         {{ __('You are logged in!') }} <br>
                         {{ __('Please check plans') }}
-                        <button type="submit" class="btn btn-primary" id="card-button" ">Plans</button>
+                        
+                            <button type="submit" class="btn btn-primary" id="card-button" ">Plans</button>
+                            @csrf
+                        
+                       
                     </div>
                 </div>
             </div>
