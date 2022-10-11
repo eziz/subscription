@@ -34,3 +34,10 @@ composer require laravel/cashier
 php artisan make:migration create_plans_table
 php artisan make:model Plan
  php artisan make:controller PlanController
+
+
+ php artisan route:list
+
+ php artisan make:seeder PlanSeeder
+
+ php artisan db:seed --class=PlanSeeder
