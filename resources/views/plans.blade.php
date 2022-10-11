@@ -25,17 +25,17 @@
 
                             <ul class="list-unstyled my-5 text-small text-left">
                                 <li class="mb-3">
-                                    <i class="fa fa-check mr-2 text-primary"></i> Lorem ipsum dolor sit amet
+                                    <i class="fa fa-check mr-2 text-primary"></i> Ayratynlyk X
                                 </li>
                                 <li class="mb-3">
-                                    <i class="fa fa-check mr-2 text-primary"></i> Sed ut perspiciatis
+                                    <i class="fa fa-check mr-2 text-primary"></i> Ayratynlyk X
                                 </li>
                                 <li class="mb-3">
-                                    <i class="fa fa-check mr-2 text-primary"></i> At vero eos et accusamus
+                                    <i class="fa fa-check mr-2 text-primary"></i> Ayratynlyk X
                                 </li>
                                 <li class="mb-3 text-muted">
                                     <i class="fa fa-times mr-2"></i>
-                                    <del>Nam libero tempore</del>
+                                    <del>Ayratynlyk X</del>
                                 </li>
                                 <li class="mb-3 text-muted">
                                     <i class="fa fa-times mr-2"></i>

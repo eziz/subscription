@@ -12,9 +12,12 @@
                             <div class="alert alert-success" role="alert">
                                 {{ session('status') }}
                             </div>
+                            
                         @endif
 
-                        {{ __('You are logged in!') }}
+                        {{ __('You are logged in!') }} <br>
+                        {{ __('Please check plans') }}
+                        <button type="submit" class="btn btn-primary" id="card-button" ">Plans</button>
                     </div>
                 </div>
             </div>
