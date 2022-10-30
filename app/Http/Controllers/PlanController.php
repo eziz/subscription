@@ -18,7 +18,6 @@ class PlanController extends Controller
     public function index()
     {
         $plans = Plan::get();
-
         return view("plans", compact("plans"));
     }
 

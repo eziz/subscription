@@ -15,12 +15,10 @@
                             
                         @endif
 
-                        {{ __('You are logged in!') }} <br>
-                        {{ __('Please check plans') }}
-                        
-                            <button type="submit" class="btn btn-primary" id="card-button" ">Plans</button>
-                            @csrf
-                        
+                        {{ __('You are logged in! Please check subscription') }}
+                       
+                        <a  href="{{ url('/plans') }}" class="btn btn-primary btn-block shadow rounded-pill">Plans</a>
+                            @csrf                        
                        
                     </div>
                 </div>
